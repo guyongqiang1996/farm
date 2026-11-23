@@ -1,9 +1,9 @@
 {
-  "versionCode": 2870,
-  "versionName": "2.0.870",
-  "url": "https:\/\/github.com\/guyongqiang1996\/farm\/releases\/download\/2.0.870\/farm-2.0.870.apk",
-  "sha256": "6ff604f36ecbcbdb354ad607cfac5fe73db1dddfa8b6f8fa081d5ff041f2c7bf",
-  "size": 54071754,
+  "versionCode": 2880,
+  "versionName": "2.0.880",
+  "url": "https:\/\/github.com\/guyongqiang1996\/farm\/releases\/download\/2.0.880\/farm-2.0.880.apk",
+  "sha256": "37e9f0e8079d13248b985896d61ff9474c3b0d0af2d17b500968d94920ec296d",
+  "size": 54809252,
   "note": "覆盖安装：直接安装即可，不用卸载",
   "force": false
 }
