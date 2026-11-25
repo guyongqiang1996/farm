@@ -1,9 +1,9 @@
 {
-  "versionCode": 2893,
-  "versionName": "2.0.893",
-  "url": "https:\/\/github.com\/guyongqiang1996\/farm\/releases\/download\/2.0.893\/farm-2.0.893.apk",
-  "sha256": "5a85ffff2d0f0573a4ed194793e22114698a45bfa8779eb59630dbfbb42447a5",
-  "size": 54825636,
+  "versionCode": 2901,
+  "versionName": "2.0.901",
+  "url": "https://github.com/guyongqiang1996/farm/releases/download/2.0.901/farm-2.0.901.apk",
+  "sha256": "8e6840ccf44b2a802a153222134923e5bfa36b5fc3b2951b14f43744fb497460",
+  "size": 51556285,
   "note": "覆盖安装：直接安装即可，不用卸载",
   "force": false
 }
